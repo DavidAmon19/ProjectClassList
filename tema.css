@@ -1,0 +1,9 @@
+.dark-theme {
+    background-color: #212529;
+    color: #fff;
+}
+
+.dark-theme .card {
+    background-color: #343a40;
+    color: #fff;
+}
